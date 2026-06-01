@@ -57,6 +57,5 @@
 - mistakes.md：/Users/okawanorihiko/Documents/Obsidian Vault/second-brain/mistakes/claude-mistakes.md
 
 ## dotfiles同期ルール
-- 作業開始時は必ずgit pullを実行すること。
-- 作業終了時は必ずgit pushを実行すること。
+このCLAUDE.mdを読んだら最初にgit pullを実行すること。作業が完了したら必ずgit pushを実行すること。
 ---
