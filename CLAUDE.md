@@ -7,8 +7,6 @@
 - どんな状況で起きるか
 ## セキュリティ
 - APIキー・トークン・パスワードなどの機密情報が画面に表示される可能性があるコマンドや操作を提案する場合、実行前に必ず警告を出すこと
-- .envファイルの内容を表示・共有しないこと
-- 公開リポジトリへのpush前に機密情報が含まれていないか確認を促すこと
 
 ---
 ## 引き継ぎルール
@@ -56,7 +54,7 @@
 
 ## MCP設定
 - Obsidian Vault：/Users/okawanorihiko/Documents/Obsidian Vault/second-brain
-- mistakes.md：/Users/okawanorihiko/Documents/Obsidian Vault/second-brain/Mistakes/claude-mistakes.md
+- mistakes.md：/Users/okawanorihiko/Documents/Obsidian Vault/second-brain/mistakes/claude-mistakes.md
 
 ## dotfiles同期ルール
 - 作業開始時は必ずgit pullを実行すること。
